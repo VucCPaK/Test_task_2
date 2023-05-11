@@ -1,4 +1,4 @@
-package com.ukrposhta.project.entities;
+package com.ukrposhta.project.enums;
 
 public enum ProgrammerType {
     DEVELOPER,
